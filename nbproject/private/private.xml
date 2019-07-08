@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/demo/ChamaFin/web/showMemberContributions.jsp</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/showMemberContribution.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/manageCharges.java</file>
+            <file>file:/E:/demo/ChamaFin/web/LoanIssued.jsp</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/manageTransaction.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/MemberContribution.java</file>
+            <file>file:/E:/demo/ChamaFin/web/View.jsp</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/ManagaePenalties.java</file>
+            <file>file:/E:/demo/ChamaFin/web/approveLoan.jsp</file>
+            <file>file:/E:/demo/ChamaFin/web/repayloan.jsp</file>
+            <file>file:/E:/demo/ChamaFin/web/Createcharges.jsp</file>
+            <file>file:/E:/demo/ChamaFin/web/homepage.jsp</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/manageLoans.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/DatabaseHandler.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/AddContribution.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/MemberController.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/repayLoan.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/DatabaseTest.java</file>
+            <file>file:/E:/demo/ChamaFin/src/java/com/chama/service/ManagePenalties.java</file>
+            <file>file:/E:/demo/ChamaFin/web/loanPage.jsp</file>
+            <file>file:/E:/demo/ChamaFin/web/addMemberContribution.jsp</file>
+            <file>file:/E:/demo/ChamaFin/web/penalisedMembers.jsp</file>
+        </group>
+    </open-files>
+</project-private>
